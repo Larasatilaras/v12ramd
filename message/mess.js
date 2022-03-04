@@ -1,12 +1,12 @@
 module.exports.mess = {
 	        wait: 'Waitt.... process......',
 	        ban: 'Maaf nomor kamu sudah terbanned, Silahkan hubungi owner❗',
-			success: 'Selesai...',
+			success: 'Donee...',
 			limit: `Limit kamu sudah habis silahkan kirim .limit untuk mengecek limit`,
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
-				api: 'Maaf, seperti terjadi kesalahan',
-				stick: 'Itu bukan stiker kak... Hadeeh',
+				api: 'Sorry, sepertinya terjadi kesalahan',
+				stick: 'Itu bukan stimker kak... Hamdeeh',
 				Iv: 'Link mungkin tidak valid'
 			},
 			only: {
