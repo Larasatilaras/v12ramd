@@ -1,6 +1,6 @@
 
 {
-  botname = "Bell BoTz"
+  botname = "GilsBoTz"
 
 
   exports.help = (prefix) => {
