@@ -5,7 +5,7 @@
 
   exports.help = (prefix) => {
 return `
-LIST MENU RamdaniS STORE
+LIST MENU GILSBOTZ
 #mla *menampilkan list mobile legend fast*
 #mlb *menampilkan list mobile legend last*
 #reddem *menampilkan list reddem*
@@ -92,7 +92,7 @@ KESALAHAN DALAM PENULISAN ID (SERVER) NICKNAME, Bukan tanggung jawab kami..
   }
   exports.reddem = (prefix) => {
 return `
-[14.05, 20/12/2021] Ramdanis Store: KODE RENDEM MLBB 
+[14.05, 20/12/2021] GILSBOTZ: KODE RENDEM MLBB 
 
 11 💎rendem 
 
@@ -115,15 +115,15 @@ Masukkan Kode Verifikasi pada web kode redeem ml
 Layanan Aktif 10.00 - 21.00 WIB
 Proses 5-60 Menit, Max 24 Jam (Event)
 Apabila Melewati Jam Aktif, Maka Akan Di Proses Di Hari Berikutnya
-[14.05, 20/12/2021] Ramdanis Store: 💰 PAYMENT  💰
+[14.05, 20/12/2021] GILSBOTZ: 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
+Nomor : 083136890848
 A / n : DISAH
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 083136890848
+A / n : Ragils
 
 💳 OVO (LIMIT) 
 Nomor : 
@@ -140,12 +140,12 @@ return `
 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
+Nomor : 083136890848
 A / n : DISAH
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 083136890848
+A / n : Ragils
 
 💳 OVO (LIMIT) 
 Nomor : 
